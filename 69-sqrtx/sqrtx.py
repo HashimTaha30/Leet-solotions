@@ -6,4 +6,3 @@ class Solution:
             i += 1
 
         return i - 1
-            
